@@ -2,7 +2,7 @@
 
 A few too many nights spent binge-eating a whole tub of Ben and Jerry's, crying in bed and watching reruns of Friends. What if you could rely on a friendly website to whose goal is to put a smile on your face?
 
-This WebApp is designed to turn you from a sad boi to a happy boi. Utilizing real-time emotional feedback provided by Microsoft Face API, our page reflects your mood and is with you every step of the way. It turns happy when you're happy and sad when you're sad. It offers personalized uplifting compliments and a near endless supply of curated memes in a minimal way. Experience it yourself by heading over to [sadboi.space](http://sadboi.space).
+This WebApp is designed to turn you from a sad boi to a happy boi. Utilizing real-time emotional feedback provided by Microsoft Face API, our page reflects your mood and is with you every step of the way. It turns happy when you're happy and sad when you're sad. It offers personalized uplifting compliments and a near endless supply of curated memes in a minimal way. Experience it yourself by heading over to [sadboi.space](http://sadboi.space). # Note that this site is no longer being hosted.
 
 This project was built from [this template](https://github.com/jimbobbennett/Hackathon-CaptureImageForFaceDetection).
 
